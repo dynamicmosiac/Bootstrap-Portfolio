@@ -1,0 +1,44 @@
+
+@media only screen and (max-width: 500px) {
+
+    .container {
+        width: 100%;
+        padding: 20px;
+        font: white;
+        background: black;
+    }
+}
+
+.form-area
+{
+    background-color: #FAFAFA;
+	padding: 10px 40px 60px;
+	margin: 10px 0px 60px;
+	border: 1px solid GREY;
+    }
+    
+    
+    .panel .panel-default {
+        padding: 100px;
+    }
+    
+    .navbar-nav {
+        display: inline;
+    
+    }
+    .collapse.navbar-collapse {
+        margin-left:0;
+    
+    }
+    
+    .navbar-inverse {
+        font: white;
+        position: relative;
+    
+    }
+    .navbar-brand {
+        margin: 0 auto;
+    }
+    .nav-link {
+        margin: 0;
+    } 
