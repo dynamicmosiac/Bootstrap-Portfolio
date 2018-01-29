@@ -1,13 +1,30 @@
 
 @media only screen and (max-width: 500px) {
 
-    .container {
+    /* .container {
         width: 100%;
         padding: 20px;
         font: white;
         background: black;
-    }
+    } */
 }
+
+body {
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+h1 {
+    color: white;
+
+}
+
+h2 {
+    text-align: center;
+}
+
 
 .form-area
 {
@@ -17,9 +34,10 @@
 	border: 1px solid GREY;
     }
     
-    
-    .panel .panel-default {
-        padding: 100px;
+
+    .panel.panel-default {
+        padding: 40px;
+       
     }
     
     .navbar-nav {
