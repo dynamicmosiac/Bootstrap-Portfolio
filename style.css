@@ -21,6 +21,31 @@ h1 {
 
 }
 
+#img-fire {
+    height: 300px;
+    margin-left: 25px;
+    width: 80%;
+}
+
+#img-music {
+    height: 325px
+}
+
+#img-france {
+    height: 175px;
+    padding-bottom: 20px;
+    margin-left: 40px;
+    margin-top: 25px;
+}
+
+#img-abc {
+    height: 140px;
+    padding-top: 10px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+
+}
+
 
 /* SOCIAL MEDIA BUTTONS */
 
