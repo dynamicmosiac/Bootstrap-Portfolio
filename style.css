@@ -1,13 +1,4 @@
 
-@media only screen and (max-width: 500px) {
-
-    /* .container {
-        width: 100%;
-        padding: 20px;
-        font: white;
-        background: black;
-    } */
-}
 
 body {
     background: #000000;  /* fallback for old browsers */
@@ -49,9 +40,9 @@ h1 {
 
 /* SOCIAL MEDIA BUTTONS */
 
-.icons {
+/* .icons {
     margin-left: 20px;
-}
+} */
 
 .fa:hover {
     opacity: 0.7;
@@ -84,8 +75,6 @@ h1 {
     text-decoration: none;
     margin: 5px 2px;
 }
-
-
 
 
 
@@ -126,3 +115,11 @@ h1 {
     .nav-link {
         margin: 0;
     } 
+/* 
+    @media only screen and (max-width: 767px) {
+        #myConnect {
+            width: 66%;
+            margin-left: 16.5%;
+            margin-right:16.5%;
+
+    } */
